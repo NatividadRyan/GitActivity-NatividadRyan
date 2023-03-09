@@ -3,9 +3,12 @@
 
 
 def personal_details():
-    name = "Ryan M. Natividad"
-    address = "Libtangin, Gasan, Marinduque"
-    birthday = "February 4,2002"
-    print("Name: {}\nAddress: {}\nBirthday: {}".format(name, address, birthday))
+    college = "Marinduque State University"
+    course = "Bachelor of Science Information Technology"
+    section = "BSIT-2A"
+    print("College: {}\nCourse: {}\nYear & Section: {}".format(college,course,section))
 
 personal_details()
+
+
+
