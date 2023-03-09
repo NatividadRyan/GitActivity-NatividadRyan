@@ -10,5 +10,13 @@ def personal_details():
 
 personal_details()
 
+def personal_hobbies():
+    hobby1 = "Singing"
+    hobby2 = "Playing Basketball"
+    hobby3 = "Playing Online Games"
+    hobby4 = "Playing Guitar"
+    hobby5 = "Riding Motorcycle"
+    print("Hobby1: {}\nHobby2: {}\nHobby3: {}\nHobby4: {}\nHobby5 {}".format(hobby1,hobby2,hobby3,hobby4,hobby5))
 
+personal_hobbies()
 
